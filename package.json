@@ -1,4 +1,6 @@
 "homepage" : "https://artpsh.github.io/AnkiChromeExtension"
+#artpsh - Your GitHub username
+#AnkiChromeExtension - Name of your application
 {
   "name": "chrome-extension-boilerplate-react",
   "version": "4.0.1",
