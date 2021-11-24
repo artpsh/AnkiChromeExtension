@@ -1,6 +1,6 @@
 "homepage" : "https://artpsh.github.io/AnkiChromeExtension"
-#artpsh
-#AnkiChromeExtension
+#{artpsh}
+#{AnkiChromeExtension}
 {
   "name": "chrome-extension-boilerplate-react",
   "version": "4.0.1",
